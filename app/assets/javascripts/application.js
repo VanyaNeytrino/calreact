@@ -18,4 +18,5 @@
 //= require moment.min
 //= require react-datetime.min
 //= require components
+//= require bootstrap-sprockets
 //= require_tree .
